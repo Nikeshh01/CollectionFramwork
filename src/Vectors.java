@@ -11,6 +11,7 @@ public class Vectors {
         System.out.println(v);
         v.addFirst("Ishika");
         System.out.println(v);
+        v.setElementAt("aa ja ", 4);
         System.out.println(v.removeLast());
         System.out.println(v.firstElement());
 
